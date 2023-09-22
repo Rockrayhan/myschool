@@ -1,4 +1,4 @@
-# This is an School Management System Application
+# This is a School Management System Application
 
 ## Live site link:
 https://project.devmrahman.com/admin/
@@ -7,9 +7,9 @@ https://project.devmrahman.com/admin/
 * admin / student / teacher - Login & sign up
 * add / edit / delete - teacher & student
 * add / edit / delete - Notice board
-* student attendence
+* student attendance
 * Accounts Section - (Teacher's Salary & Student's fees )
-* Attendence Module
+* Attendance Module
 * Routine Module
 * Exam Module
 * Class Module
@@ -21,7 +21,7 @@ https://project.devmrahman.com/admin/
 * CSS 3
 * Bootstrap 4
 * PHP
-* mysql
+* Mysql
 * jquery
 
 
@@ -42,11 +42,11 @@ https://project.devmrahman.com/admin/
 ## Database Tables
 ![sms diagram](databases_table.png)
 
-#### contributons:
+#### contributions:
 ##### Mizanur Rahman
-* DashBoard Customization
+* Dashboard Customization
 * Student & Teacher CRUD 
-* Attendence ( in process )
+* Attendance ( in process )
 * routine Module
 
 
