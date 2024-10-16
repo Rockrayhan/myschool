@@ -9,7 +9,7 @@ https://project.devmrahman.com/admin/
 * add / edit / delete - Notice board
 * student attendance
 * Accounts Section - (Teacher's Salary & Student's fees )
-* Attendance Module
+* Attendance Module (in process)
 * Routine Module
 * Exam Module
 * Class Module
